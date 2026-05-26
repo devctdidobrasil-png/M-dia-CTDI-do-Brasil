@@ -1,0 +1,6 @@
+{
+  "name": "Portal Multimídia",
+  "description": "Portal completo com controle de acesso para administradores e espectadores, upload de vídeos, imagens e apresentações, player responsivo integrado e painel de monitoramento de acessos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
